@@ -1,5 +1,5 @@
 # Loop mounter - mountos.sh
-The script file provides functions for easier mounting and unmounting of a disk image partition as a loop device with automatic file offse calculation.
+The script file provides functions for easier mounting and unmounting of a disk image partition as a loop device with automatic file offset calculation.
 
 The function creates a mount directory for the selected partition at `/mnt` and it also creates a symbolic link to the mountpoint. The mountpoint gets prefixed with a magic `mountos_` to make it distinguishable for the umountos function to prevent accidental unmounting of other mountpoints.
 
