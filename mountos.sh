@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# Author: Heikki Kilpeläinen - All rights reserved
+# Author: Heikki Kilpeläinen
+# Lisence: MIT (copy of lisence at root of this repository)
+# 2021
 
 # Configurations:
 
