@@ -17,8 +17,8 @@ Remove the script file mountos.sh and it's sourcing. Restart Bash.
 ## Usage
 ### Mount:
 `mountos disk-image [fs-type]`
-- disk-image	Disk image file that can be red by fdisk
-- fs-type	Optional filesystem type the partition shall be mounted on
+- disk-image        Disk image file that can be red by fdisk
+- fs-type	          Optional filesystem type the partition shall be mounted on
 
 In case the disk image has multiple physical partitions to choose of the mount function mountos prompts user to select the partition to be mounted.
 
@@ -26,7 +26,7 @@ An optional argument for the file system type can also be specified. The default
 
 ### Unmount:
 `umountos mountpoint`
-- mountpoint	Path to mountpoint created by mountos function
+- mountpoint	      Path to mountpoint created by mountos function
 
 ## Configuration
 The functions can be configured to print operation steps to stdout (be verbose) or to perform dry run (test) without making any changes on your filesystem. Also the mountpoint magic prefix can be configured to your liking.
