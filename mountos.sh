@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Author: Heikki Kilpeläinen
-# Lisence: MIT (copy of lisence at root of this repository)
+# License: MIT (copy of lisence at root of this repository)
 # 2021
 
 # Configurations:
