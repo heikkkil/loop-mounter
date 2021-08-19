@@ -7,7 +7,7 @@
 # Configurations:
 
 # Mount dir magic - Prefix to distinquish mountos-made mount directories
-MOUNTOS_MAGIC="umount_"
+MOUNTOS_MAGIC="mountos_"
 
 # Verbose - Print operation steps to stdout
 MOUNTOS_VERBOSE=0
